@@ -6,6 +6,7 @@ You can also click a picture and submit it to us , so we can collect images and 
 
 We have created the model using Tensorflow and Deep learning techniques.
 We have used Firebase for login and authentication , Tensorflow lite to integrate our model into the android app . 
+The Model was Trained on ASL dataset and Coloured image dataset.
 
 
 
